@@ -3,5 +3,5 @@ function subtract(){}
 function multiply(){}
 function divide(){}
 function add(a, b){
-  a + b
+  (a + b)
 }
