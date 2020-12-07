@@ -3,7 +3,7 @@ function subtract(){}
 function multiply(){}
 function divide(){}
 
-functionadd(a, b){
+function add(a, b){
   number= a + b
   return number
 }
